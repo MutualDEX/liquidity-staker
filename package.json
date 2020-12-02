@@ -4,7 +4,7 @@
   "author": "Noah Zinsmeister",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/liquidity-staker"
+    "url": "https://github.com/MutualDEX/liquidity-staker"
   },
   "files": [
     "build"
